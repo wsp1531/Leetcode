@@ -2,7 +2,9 @@ package com.csii.leetcode;
 
 import com.csii.wsp.ListNode;
 
-
+/**
+ * 链表操作
+ */
 public class No_Leetcode_2 {
     public ListNode addTwoNumbers(ListNode l1, ListNode l2) {
         ListNode head=new ListNode(0);
