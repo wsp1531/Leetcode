@@ -17,6 +17,6 @@ public class No_Leetcode_2 {
 
 
 
-        return null;
+        return head.next;
     }
 }
